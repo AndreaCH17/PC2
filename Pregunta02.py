@@ -1,4 +1,4 @@
-#Una historia de usuario
+#Una historia de usuario sirve para 
 
 
 #Ejemplo:

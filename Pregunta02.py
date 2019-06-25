@@ -8,6 +8,3 @@
 #Para: Saber si cumplieron sus horas correspondientes semanales
 
 x = input ("Ingrese 1 para marcar su asistencia:")
-
-
-if 

@@ -1,4 +1,4 @@
-#Una historia de usuario sirve para 
+#Una historia de usuario sirve para validar si el desarrollo de una actividad y su futura eficiencia al usarla.
 
 
 #Ejemplo:

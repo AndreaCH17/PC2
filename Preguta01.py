@@ -10,4 +10,6 @@ while i <= len (A) and j <= len (A):
     suma = suma + A[i,j]
 
     if suma / 2 == 0:
-        
+        print ("La diagonal es par")
+    else:
+        print ("La diagonal es impar")
